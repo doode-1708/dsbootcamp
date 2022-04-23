@@ -6,7 +6,7 @@ def try_me():
 
 def another_useless_function():
 
-    return ":-P"
+    return ";-)"
 
 if __name__ == 'main':
     try_me()
